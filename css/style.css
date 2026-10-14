@@ -678,6 +678,7 @@ section {
 
     .about-grid img {
         grid-row: auto;
+        width: 100%;
         max-width: 420px;
         margin: auto
     }
